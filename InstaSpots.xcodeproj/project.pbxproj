@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
+=======
+		70B182651F6E13CE00056657 /* InstaSp ts.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70B182641F6E13CE00056657 /* InstaSp ts.jpg */; };
+>>>>>>> origin/katia
 		BAE532CD1F6E07BF00FDEB74 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAE532CC1F6E07BF00FDEB74 /* AppDelegate.swift */; };
 		BAE532CF1F6E07BF00FDEB74 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAE532CE1F6E07BF00FDEB74 /* LoginVC.swift */; };
 		BAE532D21F6E07BF00FDEB74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAE532D01F6E07BF00FDEB74 /* Main.storyboard */; };
