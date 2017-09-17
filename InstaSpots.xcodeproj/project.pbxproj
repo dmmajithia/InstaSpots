@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BA398E061F6E1A110045FAE0 /* userClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA398E051F6E1A110045FAE0 /* userClass.swift */; };
+		BA398E081F6E1AB10045FAE0 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA398E071F6E1AB10045FAE0 /* Constant.swift */; };
 		BAE532CD1F6E07BF00FDEB74 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAE532CC1F6E07BF00FDEB74 /* AppDelegate.swift */; };
 		BAE532CF1F6E07BF00FDEB74 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAE532CE1F6E07BF00FDEB74 /* LoginVC.swift */; };
 		BAE532D21F6E07BF00FDEB74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAE532D01F6E07BF00FDEB74 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		BA398E051F6E1A110045FAE0 /* userClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = userClass.swift; sourceTree = "<group>"; };
+		BA398E071F6E1AB10045FAE0 /* Constant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 		BAE532C91F6E07BF00FDEB74 /* InstaSpots.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstaSpots.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAE532CC1F6E07BF00FDEB74 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BAE532CE1F6E07BF00FDEB74 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		BAE532CB1F6E07BF00FDEB74 /* InstaSpots */ = {
 			isa = PBXGroup;
 			children = (
+				BA398E071F6E1AB10045FAE0 /* Constant.swift */,
 				BAE532CC1F6E07BF00FDEB74 /* AppDelegate.swift */,
 				BAE532CE1F6E07BF00FDEB74 /* LoginVC.swift */,
 				BA398E051F6E1A110045FAE0 /* userClass.swift */,
@@ -143,6 +146,7 @@
 				BA398E061F6E1A110045FAE0 /* userClass.swift in Sources */,
 				BAE532CF1F6E07BF00FDEB74 /* LoginVC.swift in Sources */,
 				BAE532CD1F6E07BF00FDEB74 /* AppDelegate.swift in Sources */,
+				BA398E081F6E1AB10045FAE0 /* Constant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
