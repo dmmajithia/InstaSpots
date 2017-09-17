@@ -7,16 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-<<<<<<< Updated upstream
 		70B182651F6E13CE00056657 /* InstaSp ts.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70B182641F6E13CE00056657 /* InstaSp ts.jpg */; };
-=======
-<<<<<<< HEAD
-		BA3EF6F41F6E11A6006C1E0E /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA3EF6F31F6E11A6006C1E0E /* Constant.swift */; };
-		BA763C491F6E14CB001BC5CC /* userClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA763C481F6E14CB001BC5CC /* userClass.swift */; };
-=======
-		70B182651F6E13CE00056657 /* InstaSp ts.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70B182641F6E13CE00056657 /* InstaSp ts.jpg */; };
->>>>>>> origin/master
->>>>>>> Stashed changes
 		BAE532CD1F6E07BF00FDEB74 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAE532CC1F6E07BF00FDEB74 /* AppDelegate.swift */; };
 		BAE532CF1F6E07BF00FDEB74 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAE532CE1F6E07BF00FDEB74 /* LoginVC.swift */; };
 		BAE532D21F6E07BF00FDEB74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAE532D01F6E07BF00FDEB74 /* Main.storyboard */; };
@@ -25,16 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-<<<<<<< Updated upstream
-		70B182641F6E13CE00056657 /* InstaSp ts.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "InstaSp ts.jpg"; path = "../../../../Downloads/InstaSp ts.jpg"; sourceTree = "<group>"; };
-=======
-<<<<<<< HEAD
-		BA3EF6F31F6E11A6006C1E0E /* Constant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
-		BA763C481F6E14CB001BC5CC /* userClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = userClass.swift; sourceTree = "<group>"; };
-=======
-		70B182641F6E13CE00056657 /* InstaSp ts.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "InstaSp ts.jpg"; path = "../../../../Downloads/InstaSp ts.jpg"; sourceTree = "<group>"; };
->>>>>>> origin/master
->>>>>>> Stashed changes
 		BAE532C91F6E07BF00FDEB74 /* InstaSpots.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstaSpots.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAE532CC1F6E07BF00FDEB74 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BAE532CE1F6E07BF00FDEB74 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
