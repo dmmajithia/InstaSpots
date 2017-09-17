@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		70B182651F6E13CE00056657 /* InstaSp ts.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70B182641F6E13CE00056657 /* InstaSp ts.jpg */; };
 		BAE532CD1F6E07BF00FDEB74 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAE532CC1F6E07BF00FDEB74 /* AppDelegate.swift */; };
 		BAE532CF1F6E07BF00FDEB74 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAE532CE1F6E07BF00FDEB74 /* ViewController.swift */; };
 		BAE532D21F6E07BF00FDEB74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAE532D01F6E07BF00FDEB74 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		70B182641F6E13CE00056657 /* InstaSp ts.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "InstaSp ts.jpg"; path = "../../../../Downloads/InstaSp ts.jpg"; sourceTree = "<group>"; };
 		BAE532C91F6E07BF00FDEB74 /* InstaSpots.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstaSpots.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAE532CC1F6E07BF00FDEB74 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BAE532CE1F6E07BF00FDEB74 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				BAE532D01F6E07BF00FDEB74 /* Main.storyboard */,
 				BAE532D31F6E07BF00FDEB74 /* Assets.xcassets */,
 				BAE532D51F6E07BF00FDEB74 /* LaunchScreen.storyboard */,
+				70B182641F6E13CE00056657 /* InstaSp ts.jpg */,
 				BAE532D81F6E07BF00FDEB74 /* Info.plist */,
 			);
 			path = InstaSpots;
@@ -126,6 +129,7 @@
 			files = (
 				BAE532D71F6E07BF00FDEB74 /* LaunchScreen.storyboard in Resources */,
 				BAE532D41F6E07BF00FDEB74 /* Assets.xcassets in Resources */,
+				70B182651F6E13CE00056657 /* InstaSp ts.jpg in Resources */,
 				BAE532D21F6E07BF00FDEB74 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				BAE532DD1F6E07BF00FDEB74 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
